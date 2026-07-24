@@ -1,0 +1,6 @@
+{
+  "name": "Keyboard Hack 2026",
+  "description": "A full-stack, personalized keyboard adaptation challenge and typing competition platform with real-time level tracking, randomized character remapping, and an interactive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
